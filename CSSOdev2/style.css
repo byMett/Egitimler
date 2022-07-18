@@ -1,21 +1,24 @@
+/*Topbar*/
 .topbar{
    text-align: center;
 }
 .img{
    width: 300px;
 }
+.ust{
+   margin-top: 100px;
+}
+/*Serch Part*/
 .header{
    margin: 10px 60px 5px 60px;
    background-color:rgb(236, 232, 226);
    text-align: center;
 }
-
-.ust{
-   margin-top: 100px;
-}
 .search{
    width: 400px;
 }
+
+/*Content*/
 .content p{
    font-size: 20px;
 }
@@ -25,7 +28,6 @@
        font-family: Arial, Helvetica, sans-serif;
        margin:0px 60px 5px 60px;
 }
-
 .partOne{
    width: 33%;
    float: left;
@@ -34,7 +36,6 @@
    margin-right: 10px;
    height: 180px;
 }
-
 .partTwo{
    width: 32%;
    float: left;
@@ -43,7 +44,6 @@
    margin-right: 10px;
    height: 180px;
 }
-
 .partThree{
    width: 33%;
    float: left;
@@ -51,6 +51,7 @@
    background-color: rgb(87, 198, 146);
    height: 180px;
 }
+/*Footer*/
 footer p {
    text-align: center;
 }
