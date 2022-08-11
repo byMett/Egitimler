@@ -8,7 +8,7 @@
 
 
 
-**5 sayısı 7'den küçük olduğunda 7'nin soluna ekledik**
+** "5" rakamı "7" rakamından küçük olduğundan 7'nin soluna ekledik**
 |   Açıklama  |     |  |  |
 |--           |-    |- |- |
 |             |     |  | 7|  
@@ -16,7 +16,7 @@
 |**5 ekledik**|**5**|  |  | 
 
 
-**1 sayısı 5'ten ve 7'den küçük olduğunda 7 ve 5'in soluna ekledik** 
+**"1" rakamı "5" rakamından ve 7'den küçük olduğundan 7 ve 5'in soluna ekledik** 
 |     Açıklama  |     |  |  |  |  |
 |             --|--   |--|- |- |- |
 |               |     |  |  |  | 7|  
@@ -25,7 +25,7 @@
 |               |     | /|  |  |  | 
 |**1 ekledik**  |**1**|  |  |  |  |
 
-**8 sayısı 7'den büyük olduğunda 7'nin sağına ekledik** 
+**"8" rakamı "7" rakamından büyük olduğundan 7'nin sağına ekledik** 
 | Açıklama      |  |  |  |  |  |  |     |
 |--             |--|--|- |- |- |- |-    |
 |               |  |  |  |  | 7|  |     |  
@@ -34,7 +34,7 @@
 |               |  | /|  |  |  |  |     | 
 |               | 1|  |  |  |  |  |     |
 
-**3 sayısı  7'den ve 5'ten küçük  olduğunda 5'in soluna, 1'den büyük olduğunda 1'in sağına ekledik**  
+**"3" rakamı  "7" ve "5" rakamından küçük  olduğundan 5'in soluna, 1'den büyük olduğundan 1'in sağına ekledik**  
 |  Açıklama     |  |  |     |  |  |  |  |
 |--             |--|--|-    |- |- |- |- |
 |               |  |  |     |  | 7|  |  |  
@@ -45,7 +45,7 @@
 |               |  |\ |     |  |  |  |  |
 |**3 ekledik**  |  |  |**3**|  |  |  |  |
 
-**6 sayısı 7'den küçük  olduğunda 7'nin soluna, 5'ten büyük olduğunda 5'in sağına ekledik**  
+**"6" rakamı "7" rakamından küçük  olduğundan 7'nin soluna, "5" rakamından büyük olduğundan 5'in sağına ekledik**  
 | Açıklama      |  |  |  |  |     |  |  |
 |--             |--|--|- |- |-    |- |- |
 |               |  |  |  |  | 7   |  |  |  
@@ -56,7 +56,7 @@
 |               |  |\ |  |  |     |  |  |
 |               |  |  | 3|  |     |  |  |
 
-**0 sayısı  7'den, 5'ten ve 1'den küçük  olduğunda 1'in soluna ekledik**  
+**"0" "7" rakamından, "5" ve "1" rakamından küçük  olduğundan 1'in soluna ekledik**  
 | Açıklama       |     |  |  |  |  |  |  |  |  |
 |--              |--   |--|- |- |- |- |- |- |- |
 |                |     |  |  |  |  |  | 7|  |  |  
@@ -67,7 +67,7 @@
 |                |     | /|  |\ |  |  |  |  |  |
 | **0 ekledik**  |**0**|  |  |  | 3|  |  |  |  |
 
-**9 sayısı  7'den ve 8'den büyük olduğunda  8'in sağına ekledik**  
+**"9" rakamı  "7" ve "8" rakamından büyük olduğundan  8'in sağına ekledik**  
 | Açıklama     |  |  |  |  |  |  |  |  |  |  |     |
 |--            |--|--|- |- |- |- |- |- |- |- |-    |
 |              |  |  |  |  |  |  | 7|  |  |  |     |  
@@ -79,7 +79,7 @@
 |              | 0|  |  |  | 3|  |  |  |  |  |     |
 
 
-**4 sayısı  7'den ve 5'ten küçük olduğunda 5'in soluna, 1'den ve 3'ten büyük olduğunda 3'ün sağına ekledik** 
+**"4" rakamı  "7" ve "5" rakamından küçük olduğundan 5'in soluna, "1" ve "3" rakamından büyük olduğundan 3'ün sağına ekledik** 
 | Açıklama    |  |  |  |  |  |  |     |  |  |  |  |
 |--           |--|--|- |- |- |- |-    |- |- |- |- |
 |             |  |  |  |  |  |  | 7   |  |  |  |  |  
@@ -92,7 +92,7 @@
 |             |  |  |  |  |  |\ |     |  |  |  |  |
 |**4 ekledik**|  |  |  |  |  |  |**4**|  |  |  |  |
 
-**2 sayısı  7'den ve 5'ten küçük olduğunda 5'in soluna, 1'den büyük olduğunda 1'in sağına ve 3'ten küçük olduğunda 3'ün soluna ekledik** 
+**"2" rakamı "7" ve "5" rakamından küçük olduğundan 5'in soluna, "1" rakamından büyük olduğundan 1'in sağına ve 3'ten küçük olduğunda 3'ün soluna ekledik** 
 | Açıklama    |  |  |     |  |  |  |  |  |  |  |  |
 |--           |--|--|-    |- |- |- |- |- |- |- |- |
 |             |  |  |     |  |  |  | 7|  |  |  |  |  
