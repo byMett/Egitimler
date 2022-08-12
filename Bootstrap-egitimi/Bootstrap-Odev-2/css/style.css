@@ -2,7 +2,8 @@
    text-align: center;
    font-size: 14px;
    color: gray;
-   background-image: url("search-solid.svg") no-repeat;
+   background-image: url("/Bootstrap-egitimi/Bootstrap-Odev-2/assets/search-solid.svg");
+   background-repeat: no-repeat;
    background-position: 40%;
    background-size: 6%;
  }
