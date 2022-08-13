@@ -1,0 +1,16 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: #E9ECEF;
+}
+   .top-bar{
+   background-color: rgb(255, 192, 23); 
+   border-bottom: 1px solid rgb(41, 41, 41, 1);
+}
+.under-bar{
+   background-color: rgb(255, 192, 23); 
+   border-bottom: 1px solid rgb(41, 41, 41, 1);
+}
